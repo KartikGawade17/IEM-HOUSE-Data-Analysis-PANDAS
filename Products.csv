@@ -1,0 +1,16 @@
+ProductID,ProductName,Category,LaunchYear,BasePriceINR,DriverType,ImpedanceOhm
+P1,Titan X Elite,Flagship,2023,120000,Tribrid,16
+P2,Aurora MKII,Flagship,2023,150000,Hybrid,18
+P3,Phantom Ultra,Flagship,2024,180000,Tribrid,12
+P4,Sonic Emperor Pro,Flagship,2024,200000,Quadbrid,10
+P5,Valkyrie Xtreme,Flagship,2023,170000,Hybrid,14
+P6,Obsidian X,Flagship,2024,210000,Tribrid,15
+P7,Nebula Prime,Flagship,2023,160000,Hybrid,20
+P8,Crimson Audio X,Flagship,2024,230000,Quadbrid,8
+P9,Royal Bassline,Flagship,2023,190000,Dynamic,22
+P10,Studio Monarch,Flagship,2024,175000,Hybrid,16
+P11,Zeus Audio Pro,Flagship,2024,250000,Quadbrid,9
+P12,Titanium Pro X,Flagship,2025,220000,Tribrid,13
+P13,Harmonic Beast,Flagship,2023,140000,Dynamic,24
+P14,Galaxy Monitor,Flagship,2025,155000,Hybrid,18
+P15,Reference King,Flagship,2025,240000,Quadbrid,11

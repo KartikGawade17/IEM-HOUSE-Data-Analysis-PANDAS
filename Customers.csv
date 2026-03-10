@@ -1,0 +1,331 @@
+CustomerID,CustomerName,CustomerType,City,Country,JoinedYear,VIPLevel
+C1,DJ Arman Blaze,DJ,Mumbai,India,2022,Platinum
+C2,Sonic Wave Studios,Studio Engineer,Delhi,India,2021,Gold
+C3,Neon Pulse,Producer,Bangalore,India,2023,Gold
+C4,Aural Mastering Lab,Studio Engineer,London,UK,2020,Platinum
+C5,DJ TitanBeats,DJ,Dubai,UAE,2022,Gold
+C6,Studio Harmonics,Studio Engineer,Los Angeles,USA,2021,Platinum
+C7,EchoCraft Productions,Producer,Mumbai,India,2024,Silver
+C8,DJ NightRider,DJ,New York,USA,2023,Gold
+C9,Platinum Sound Lab,Studio Engineer,Berlin,Germany,2020,Platinum
+C10,Bassline Syndicate,Producer,Delhi,India,2022,Gold
+C11,DJ Solaris,DJ,Singapore,Singapore,2023,Gold
+C12,Crystal Mix Studios,Studio Engineer,London,UK,2021,Platinum
+C13,Audiophile Anand,Influencer,Mumbai,India,2024,Silver
+C14,The Sound Architect,Producer,Bangalore,India,2022,Gold
+C15,DJ PhantomX,DJ,Dubai,UAE,2023,Gold
+C16,Velvet Audio Lab,Studio Engineer,Los Angeles,USA,2020,Platinum
+C17,Bass Monk,Influencer,Delhi,India,2024,Silver
+C18,DJ NovaSpin,DJ,Mumbai,India,2023,Gold
+C19,Infinity Mastering,Studio Engineer,Berlin,Germany,2021,Gold
+C20,Spectrum Beats,Producer,London,UK,2022,Gold
+C21,DJ Voltage,DJ,Bangalore,India,2024,Silver
+C22,Harmonic Fusion Studio,Studio Engineer,New York,USA,2020,Platinum
+C23,Audiophile Rishi,Influencer,Mumbai,India,2023,Gold
+C24,DJ NightFury,DJ,Dubai,UAE,2024,Silver
+C25,Golden Frequency Lab,Studio Engineer,Los Angeles,USA,2021,Platinum
+C26,Zenith Productions,Producer,Delhi,India,2022,Gold
+C27,DJ EchoStorm,DJ,Singapore,Singapore,2023,Gold
+C28,SonicAlchemy Studio,Studio Engineer,London,UK,2020,Platinum
+C29,Bass Authority,Producer,Mumbai,India,2024,Silver
+C30,DJ Spectrum,DJ,Berlin,Germany,2023,Gold
+C31,DJ Arjun Blaze,DJ,Amsterdam,Netherlands,2021,0
+C32,Maya Verma,Producer,New York,United States,2022,0
+C33,Liam Carter,Studio Engineer,Los Angeles,United States,2023,0
+C34,Riya Kapoor,Influencer,Toronto,Canada,2021,0
+C35,Ethan Brooks,Music Director,Berlin,Germany,2024,0
+C36,DJ Nova Singh,DJ,Toronto,Canada,2020,0
+C37,Ava Thompson,Producer,Paris,France,2024,0
+C38,Kabir Mehta,Studio Engineer,Paris,France,2023,0
+C39,Sofia Martinez,Influencer,Toronto,Canada,2022,0
+C40,Noah Wilson,Music Director,Singapore,Singapore,2021,0
+C41,DJ Aryan Storm,DJ,Delhi,India,2022,0
+C42,Isabella Rossi,Producer,Sydney,Australia,2024,0
+C43,Rahul Nair,Studio Engineer,London,United Kingdom,2022,0
+C44,Ananya Desai,Influencer,Delhi,India,2022,0
+C45,Lucas Anderson,Music Director,Paris,France,2020,0
+C46,DJ Zara Vibe,DJ,Tokyo,Japan,2021,0
+C47,James Walker,Producer,Paris,France,2021,0
+C48,Sneha Iyer,Studio Engineer,Amsterdam,Netherlands,2020,0
+C49,Olivia Brown,Influencer,Singapore,Singapore,2024,0
+C50,Daniel Garcia,Music Director,Delhi,India,2020,0
+C51,DJ Kunal X,DJ,Mumbai,India,2020,0
+C52,Emma Johnson,Producer,Tokyo,Japan,2021,0
+C53,Aditya Sharma,Studio Engineer,Dubai,United Arab Emirates,2021,0
+C54,Mia Hernandez,Influencer,Bangalore,India,2022,0
+C55,Benjamin Lee,Music Director,Amsterdam,Netherlands,2022,0
+C56,DJ Rav3n,DJ,Delhi,India,2022,0
+C57,Charlotte White,Producer,Singapore,Singapore,2021,0
+C58,Vikram Joshi,Studio Engineer,Singapore,Singapore,2021,0
+C59,Amelia Clark,Influencer,Delhi,India,2020,0
+C60,Elijah Lewis,Music Director,Toronto,Canada,2022,0
+C61,DJ Neon Raj,DJ,Singapore,Singapore,2022,0
+C62,Harper Hall,Producer,Dubai,United Arab Emirates,2023,0
+C63,Rohan Kapoor,Studio Engineer,Berlin,Germany,2020,0
+C64,Aarohi Patel,Influencer,Seoul,South Korea,2022,0
+C65,William Young,Music Director,Delhi,India,2022,0
+C66,DJ Sonic Dev,DJ,Singapore,Singapore,2021,0
+C67,Evelyn King,Producer,Singapore,Singapore,2022,0
+C68,Manish Gupta,Studio Engineer,Delhi,India,2020,0
+C69,Abigail Scott,Influencer,London,United Kingdom,2020,0
+C70,Alexander Green,Music Director,Mumbai,India,2023,0
+C71,DJ Mystic Arya,DJ,Seoul,South Korea,2022,0
+C72,Scarlett Adams,Producer,Toronto,Canada,2021,0
+C73,Yash Malhotra,Studio Engineer,Toronto,Canada,2022,0
+C74,Lily Baker,Influencer,Bangalore,India,2021,0
+C75,Henry Nelson,Music Director,Mumbai,India,2022,0
+C76,DJ Pulse Khan,DJ,Toronto,Canada,2021,0
+C77,Chloe Rivera,Producer,Seoul,South Korea,2023,0
+C78,Siddharth Rao,Studio Engineer,London,United Kingdom,2022,0
+C79,Grace Campbell,Influencer,Seoul,South Korea,2020,0
+C80,Sebastian Mitchell,Music Director,Singapore,Singapore,2023,0
+C81,DJ Vortex Neil,DJ,Paris,France,2020,0
+C82,Aria Perez,Producer,Dubai,United Arab Emirates,2020,0
+C83,Karan Chawla,Studio Engineer,Berlin,Germany,2021,0
+C84,Zoe Roberts,Influencer,Delhi,India,2020,0
+C85,Matthew Turner,Music Director,New York,United States,2024,0
+C86,DJ Zenith Ayaan,DJ,London,United Kingdom,2021,0
+C87,Ella Phillips,Producer,Paris,France,2021,0
+C88,Nikhil Bansal,Studio Engineer,Delhi,India,2023,0
+C89,Hannah Parker,Influencer,Seoul,South Korea,2022,0
+C90,David Evans,Music Director,Seoul,South Korea,2024,0
+C91,DJ Inferno Jay,DJ,Berlin,Germany,2020,0
+C92,Victoria Collins,Producer,Berlin,Germany,2021,0
+C93,Pranav Reddy,Studio Engineer,New York,United States,2022,0
+C94,Madison Stewart,Influencer,Sydney,Australia,2024,0
+C95,Joseph Sanchez,Music Director,Delhi,India,2020,0
+C96,DJ Echo Arav,DJ,Tokyo,Japan,2023,0
+C97,Penelope Morris,Producer,Singapore,Singapore,2022,0
+C98,Arpit Jain,Studio Engineer,Tokyo,Japan,2021,0
+C99,Layla Rogers,Influencer,Toronto,Canada,2021,0
+C100,Samuel Reed,Music Director,Singapore,Singapore,2024,0
+C101,DJ Titan Roy,DJ,Delhi,India,2024,0
+C102,Natalie Cook,Producer,Mumbai,India,2021,0
+C103,Harsh Vardhan,Studio Engineer,London,United Kingdom,2024,0
+C104,Avery Morgan,Influencer,London,United Kingdom,2022,0
+C105,Christopher Bell,Music Director,New York,United States,2024,0
+C106,DJ Blaze Mira,DJ,Toronto,Canada,2021,0
+C107,Audrey Murphy,Producer,Sydney,Australia,2021,0
+C108,Varun Kulkarni,Studio Engineer,Bangalore,India,2021,0
+C109,Brooklyn Bailey,Influencer,Tokyo,Japan,2020,0
+C110,Andrew Cooper,Music Director,Amsterdam,Netherlands,2023,0
+C111,DJ Phantom Sid,DJ,Dubai,United Arab Emirates,2023,0
+C112,Bella Richardson,Producer,Toronto,Canada,2020,0
+C113,Tejas Shah,Studio Engineer,Toronto,Canada,2024,0
+C114,Skylar Cox,Influencer,Paris,France,2021,0
+C115,Joshua Howard,Music Director,Dubai,United Arab Emirates,2023,0
+C116,DJ Aero K,DJ,Seoul,South Korea,2023,0
+C117,Stella Ward,Producer,Amsterdam,Netherlands,2020,0
+C118,Aman Tiwari,Studio Engineer,New York,United States,2020,0
+C119,Paisley Torres,Influencer,Bangalore,India,2023,0
+C120,Nathan Peterson,Music Director,Singapore,Singapore,2023,0
+C121,DJ Rhythm Ishaan,DJ,Dubai,United Arab Emirates,2023,0
+C122,Lucy Gray,Producer,Los Angeles,United States,2022,0
+C123,Ritesh Soni,Studio Engineer,Toronto,Canada,2022,0
+C124,Claire Ramirez,Influencer,Amsterdam,Netherlands,2021,0
+C125,Gabriel Foster,Music Director,Mumbai,India,2021,0
+C126,DJ Cosmic Reva,DJ,Amsterdam,Netherlands,2020,0
+C127,Samantha Powell,Producer,Singapore,Singapore,2024,0
+C128,Devansh Arora,Studio Engineer,New York,United States,2023,0
+C129,Ruby Hughes,Influencer,Berlin,Germany,2024,0
+C130,Owen Price,Music Director,Paris,France,2023,0
+C131,DJ Orion Malik,DJ,Bangalore,India,2023,0
+C132,Kiara Fernandes,Producer,Seoul,South Korea,2023,0
+C133,Raghav Bhatia,Studio Engineer,Mumbai,India,2023,0
+C134,Naomi Edwards,Influencer,London,United Kingdom,2021,0
+C135,Logan Murphy,Music Director,Seoul,South Korea,2020,0
+C136,DJ Astro Veer,DJ,Bangalore,India,2022,0
+C137,Fatima Sheikh,Producer,Singapore,Singapore,2022,0
+C138,Armaan Gill,Studio Engineer,Amsterdam,Netherlands,2022,0
+C139,Hailey Bennett,Influencer,Seoul,South Korea,2021,0
+C140,Isaac Coleman,Music Director,New York,United States,2020,0
+C141,DJ Thunder Zain,DJ,Amsterdam,Netherlands,2024,0
+C142,Aditi Chauhan,Producer,Paris,France,2024,0
+C143,Krish Oberoi,Studio Engineer,Tokyo,Japan,2022,0
+C144,Violet Simmons,Influencer,Berlin,Germany,2022,0
+C145,Julian Patterson,Music Director,Bangalore,India,2022,0
+C146,DJ Shadow Pranav,DJ,Mumbai,India,2021,0
+C147,Meera Krishnan,Producer,London,United Kingdom,2022,0
+C148,Reyansh Sethi,Studio Engineer,Los Angeles,United States,2020,0
+C149,Elena Russell,Influencer,Mumbai,India,2022,0
+C150,Wyatt Griffin,Music Director,Singapore,Singapore,2024,0
+C151,DJ Mirage Kabir,DJ,Mumbai,India,2023,0
+C152,Alina Dsouza,Producer,Toronto,Canada,2024,0
+C153,Dhruv Khanna,Studio Engineer,Sydney,Australia,2021,0
+C154,Autumn Diaz,Influencer,Mumbai,India,2023,0
+C155,Levi Hayes,Music Director,Amsterdam,Netherlands,2023,0
+C156,DJ Electro Yuvraj,DJ,Delhi,India,2020,0
+C157,Sana Mirza,Producer,Tokyo,Japan,2022,0
+C158,Tanishq Arora,Studio Engineer,Tokyo,Japan,2022,0
+C159,Savannah Bryant,Influencer,Dubai,United Arab Emirates,2021,0
+C160,Caleb Russell,Music Director,Singapore,Singapore,2020,0
+C161,DJ Nightfall Aryan,DJ,Toronto,Canada,2020,0
+C162,Nandini Pillai,Producer,Paris,France,2023,0
+C163,Ishaan Grover,Studio Engineer,New York,United States,2022,0
+C164,Caroline Henderson,Influencer,Seoul,South Korea,2023,0
+C165,Hudson Sanders,Music Director,Singapore,Singapore,2020,0
+C166,DJ Blaze Rithvik,DJ,Mumbai,India,2023,0
+C167,Zara Contractor,Producer,Berlin,Germany,2021,0
+C168,Omkar Patil,Studio Engineer,Toronto,Canada,2022,0
+C169,Kennedy Barnes,Influencer,Berlin,Germany,2022,0
+C170,Aaron Ross,Music Director,New York,United States,2024,0
+C171,DJ Nova Rehan,DJ,Seoul,South Korea,2021,0
+C172,Pooja Sinha,Producer,Toronto,Canada,2022,0
+C173,Lakshya Bedi,Studio Engineer,Dubai,United Arab Emirates,2021,0
+C174,Allison Butler,Influencer,Sydney,Australia,2021,0
+C175,Christian Simmons,Music Director,Berlin,Germany,2024,0
+C176,DJ Voltage Manav,DJ,Dubai,United Arab Emirates,2021,0
+C177,Shruti Kulshreshtha,Producer,Sydney,Australia,2022,0
+C178,Atharv Shinde,Studio Engineer,Los Angeles,United States,2023,0
+C179,Sadie Powell,Influencer,Toronto,Canada,2020,0
+C180,Jonathan Long,Music Director,Berlin,Germany,2023,0
+C181,DJ Zenith Kabir,DJ,Los Angeles,United States,2021,0
+C182,Anushka Talwar,Producer,New York,United States,2021,0
+C183,Yuvan Kapoor,Studio Engineer,Bangalore,India,2021,0
+C184,Delilah Hughes,Influencer,Dubai,United Arab Emirates,2022,0
+C185,Evan Patterson,Music Director,Delhi,India,2024,0
+C186,DJ Spectrum Arjun,DJ,Bangalore,India,2022,0
+C187,Ritika Vyas,Producer,Los Angeles,United States,2022,0
+C188,Keshav Bansode,Studio Engineer,Los Angeles,United States,2020,0
+C189,Adeline Brooks,Influencer,London,United Kingdom,2023,0
+C190,Charles Jenkins,Music Director,Dubai,United Arab Emirates,2024,0
+C191,DJ Sonic Veer,DJ,Los Angeles,United States,2021,0
+C192,Hiral Shah,Producer,Los Angeles,United States,2022,0
+C193,Samarjeet Das,Studio Engineer,Los Angeles,United States,2023,0
+C194,Luna Richardson,Influencer,Tokyo,Japan,2023,0
+C195,Thomas Coleman,Music Director,Tokyo,Japan,2024,0
+C196,DJ Phantom Aarav,DJ,Delhi,India,2024,0
+C197,Tanvi Raut,Producer,Amsterdam,Netherlands,2022,0
+C198,Vivaan Chaturvedi,Studio Engineer,Bangalore,India,2024,0
+C199,Piper Cox,Influencer,Berlin,Germany,2022,0
+C200,Adam Perry,Music Director,Tokyo,Japan,2021,0
+C201,DJ Titan Kabir,DJ,Berlin,Germany,2022,0
+C202,Simran Kaur,Producer,Toronto,Canada,2022,0
+C203,Hrithik Naidu,Studio Engineer,Sydney,Australia,2021,0
+C204,Josephine Ward,Influencer,Toronto,Canada,2020,0
+C205,Nathaniel Price,Music Director,New York,United States,2024,0
+C206,DJ Eclipse Zayn,DJ,Berlin,Germany,2023,0
+C207,Komal Ahuja,Producer,Toronto,Canada,2020,0
+C208,Aarush Tripathi,Studio Engineer,Tokyo,Japan,2020,0
+C209,Gabriella Gray,Influencer,Dubai,United Arab Emirates,2020,0
+C210,Jeremiah Bennett,Music Director,Amsterdam,Netherlands,2024,0
+C211,DJ Fusion Rey,DJ,Dubai,United Arab Emirates,2021,0
+C212,Mitali Sengupta,Producer,Amsterdam,Netherlands,2024,0
+C213,Darsh Mehra,Studio Engineer,Seoul,South Korea,2021,0
+C214,Valerie Ramirez,Influencer,Seoul,South Korea,2022,0
+C215,Connor Bryant,Music Director,Singapore,Singapore,2021,0
+C216,DJ Pulse Armaan,DJ,New York,United States,2024,0
+C217,Anika Menon,Producer,Bangalore,India,2022,0
+C218,Rudra Kulkarni,Studio Engineer,New York,United States,2020,0
+C219,Ivy Foster,Influencer,Bangalore,India,2022,0
+C220,Miles Sanders,Music Director,Berlin,Germany,2020,0
+C221,DJ Inferno Zaid,DJ,London,United Kingdom,2020,0
+C222,Bhavya Nanda,Producer,Amsterdam,Netherlands,2023,0
+C223,Soham Wagle,Studio Engineer,Delhi,India,2022,0
+C224,Melanie Griffin,Influencer,Bangalore,India,2021,0
+C225,Anthony Russell,Music Director,Sydney,Australia,2022,0
+C226,DJ Apex Kabir,DJ,Dubai,United Arab Emirates,2023,0
+C227,Priyal Deshpande,Producer,London,United Kingdom,2024,0
+C228,Arnav Bhosale,Studio Engineer,Paris,France,2024,0
+C229,Vivienne Diaz,Influencer,Berlin,Germany,2024,0
+C230,Colton Hayes,Music Director,New York,United States,2023,0
+C231,DJ Carlos Fuego,DJ,Sydney,Australia,2020,0
+C232,Camila Rodriguez,Producer,Bangalore,India,2020,0
+C233,Mateo Alvarez,Studio Engineer,Singapore,Singapore,2021,0
+C234,Isabella Cruz,Influencer,Singapore,Singapore,2022,0
+C235,Diego Fernandez,Music Director,Delhi,India,2024,0
+C236,DJ Luna Rivera,DJ,Seoul,South Korea,2021,0
+C237,Valentina Morales,Producer,Paris,France,2020,0
+C238,Thiago Silva,Studio Engineer,Berlin,Germany,2023,0
+C239,Sofia Herrera,Influencer,Dubai,United Arab Emirates,2020,0
+C240,Gabriel Costa,Music Director,Singapore,Singapore,2024,0
+C241,DJ Rio Santos,DJ,Dubai,United Arab Emirates,2021,0
+C242,Mariana Lopez,Producer,Seoul,South Korea,2024,0
+C243,Rafael Torres,Studio Engineer,Toronto,Canada,2023,0
+C244,Antonella Ramirez,Influencer,Sydney,Australia,2020,0
+C245,Lucas Oliveira,Music Director,Sydney,Australia,2024,0
+C246,DJ Estrella Vega,DJ,Singapore,Singapore,2021,0
+C247,Daniela Castro,Producer,London,United Kingdom,2021,0
+C248,Bruno Souza,Studio Engineer,London,United Kingdom,2024,0
+C249,Valeria Mendoza,Influencer,London,United Kingdom,2021,0
+C250,Andres Navarro,Music Director,Paris,France,2023,0
+C251,DJ Sol Martinez,DJ,Singapore,Singapore,2023,0
+C252,Renata Pereira,Producer,Los Angeles,United States,2020,0
+C253,Javier Castillo,Studio Engineer,Berlin,Germany,2020,0
+C254,Luciana Rocha,Influencer,London,United Kingdom,2022,0
+C255,Emilio Vargas,Music Director,Paris,France,2021,0
+C256,DJ Fuego Diaz,DJ,Tokyo,Japan,2023,0
+C257,Paola Jimenez,Producer,Amsterdam,Netherlands,2021,0
+C258,Henrique Lima,Studio Engineer,Los Angeles,United States,2024,0
+C259,Bianca Duarte,Influencer,Tokyo,Japan,2021,0
+C260,Nicolas Rojas,Music Director,Seoul,South Korea,2021,0
+C261,DJ Noche Alvarez,DJ,Bangalore,India,2020,0
+C262,Fernanda Gomes,Producer,Amsterdam,Netherlands,2021,0
+C263,Sebastian Ortiz,Studio Engineer,Mumbai,India,2024,0
+C264,Daniela Marquez,Influencer,Delhi,India,2024,0
+C265,Matheus Barbosa,Music Director,Seoul,South Korea,2020,0
+C266,DJ Samba Cruz,DJ,London,United Kingdom,2020,0
+C267,Julieta Herrera,Producer,Amsterdam,Netherlands,2024,0
+C268,Caio Martins,Studio Engineer,Berlin,Germany,2024,0
+C269,Catalina Reyes,Influencer,Tokyo,Japan,2023,0
+C270,Leonardo Ferreira,Music Director,Los Angeles,United States,2021,0
+C271,DJ Toro Silva,DJ,New York,United States,2022,0
+C272,Gabriela Santana,Producer,Delhi,India,2022,0
+C273,Rodrigo Chavez,Studio Engineer,Bangalore,India,2023,0
+C274,Isadora Costa,Influencer,Sydney,Australia,2020,0
+C275,Mauricio Delgado,Music Director,London,United Kingdom,2024,0
+C276,DJ Playa Moreno,DJ,Los Angeles,United States,2021,0
+C277,Ariana Torres,Producer,Los Angeles,United States,2022,0
+C278,Felipe Araujo,Studio Engineer,Berlin,Germany,2022,0
+C279,Natalia Cabrera,Influencer,Los Angeles,United States,2023,0
+C280,Joao Ribeiro,Music Director,Los Angeles,United States,2021,0
+C281,DJ Caliente Ramos,DJ,London,United Kingdom,2021,0
+C282,Maria Fernanda Lopez,Producer,Mumbai,India,2021,0
+C283,Pedro Henrique Alves,Studio Engineer,London,United Kingdom,2023,0
+C284,Camila Gutierrez,Influencer,Mumbai,India,2020,0
+C285,Thiago Carvalho,Music Director,London,United Kingdom,2021,0
+C286,DJ Azul Vega,DJ,Dubai,United Arab Emirates,2024,0
+C287,Luisa Fernandez,Producer,London,United Kingdom,2023,0
+C288,Anderson Santos,Studio Engineer,London,United Kingdom,2020,0
+C289,Valentina Paredes,Influencer,Paris,France,2020,0
+C290,Ricardo Mendez,Music Director,Tokyo,Japan,2021,0
+C291,DJ Caribe Santos,DJ,Mumbai,India,2023,0
+C292,Daniela Oliveira,Producer,New York,United States,2023,0
+C293,Victor Hugo Lima,Studio Engineer,New York,United States,2021,0
+C294,Sofia Salazar,Influencer,Tokyo,Japan,2023,0
+C295,Juan Pablo Garcia,Music Director,Dubai,United Arab Emirates,2023,0
+C296,DJ Fiesta Torres,DJ,New York,United States,2021,0
+C297,Bruna Rodrigues,Producer,Dubai,United Arab Emirates,2021,0
+C298,Alejandro Nunez,Studio Engineer,Bangalore,India,2024,0
+C299,Isabel Cristina Souza,Influencer,Tokyo,Japan,2023,0
+C300,Marco Antonio Ruiz,Music Director,New York,United States,2020,0
+C301,DJ Bahia Cruz,DJ,Dubai,United Arab Emirates,2023,0
+C302,Karina Morales,Producer,Los Angeles,United States,2021,0
+C303,Gustavo Pereira,Studio Engineer,Amsterdam,Netherlands,2024,0
+C304,Lucia Herrera,Influencer,Dubai,United Arab Emirates,2021,0
+C305,Enzo Martinez,Music Director,Los Angeles,United States,2021,0
+C306,DJ Oro Castillo,DJ,Los Angeles,United States,2024,0
+C307,Larissa Fernandes,Producer,Singapore,Singapore,2020,0
+C308,Eduardo Silva,Studio Engineer,Singapore,Singapore,2021,0
+C309,Valeria Rocha,Influencer,Paris,France,2022,0
+C310,Fernando Vargas,Music Director,Mumbai,India,2023,0
+C311,DJ Rumba Diaz,DJ,New York,United States,2023,0
+C312,Patricia Gomez,Producer,Tokyo,Japan,2020,0
+C313,Diego Souza,Studio Engineer,London,United Kingdom,2021,0
+C314,Ana Beatriz Costa,Influencer,Berlin,Germany,2024,0
+C315,Carlos Eduardo Lima,Music Director,Amsterdam,Netherlands,2024,0
+C316,DJ Tropical Reyes,DJ,Amsterdam,Netherlands,2021,0
+C317,Monica Alvarez,Producer,Bangalore,India,2020,0
+C318,Samuel Oliveira,Studio Engineer,Delhi,India,2023,0
+C319,Alessandra Mendes,Influencer,New York,United States,2022,0
+C320,Raul Navarro,Music Director,Berlin,Germany,2023,0
+C321,DJ Solero Martinez,DJ,Sydney,Australia,2020,0
+C322,Tatiana Ferreira,Producer,Tokyo,Japan,2020,0
+C323,Miguel Angel Torres,Studio Engineer,Los Angeles,United States,2020,0
+C324,Julia Santos,Influencer,Delhi,India,2022,0
+C325,Bruno Henrique Rocha,Music Director,Bangalore,India,2024,0
+C326,DJ Carnaval Silva,DJ,Delhi,India,2021,0
+C327,Yamila Gutierrez,Producer,Toronto,Canada,2023,0
+C328,Thiago Mendes,Studio Engineer,Berlin,Germany,2022,0
+C329,Camila Barbosa,Influencer,Tokyo,Japan,2024,0
+C330,Luis Fernando Costa,Music Director,New York,United States,2024,0
